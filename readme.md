@@ -4,9 +4,9 @@ is a simple tool to perform **brute force** or **dictionary attacks** on passwor
 
 ---
 
-## 🔧 Cara Menjalankan
+## How To running
 
-### 1. Instalasi Paket yang Dibutuhkan
+### 1. Install package
 ```bash
 pip install tqdm
 ```
