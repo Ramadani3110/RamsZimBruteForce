@@ -1,6 +1,6 @@
 # RamsZipBruteForce
 
-RamsZipBruteForce adalah tool sederhana untuk melakukan **brute force** atau **dictionary attack** pada file ZIP yang diproteksi password. Tool ini mendukung multiprocessing dan multithreading untuk mempercepat proses pencarian password.
+is a simple tool to perform **brute force** or **dictionary attacks** on password protected ZIP files. This tool supports multiprocessing and multithreading to speed up the password finding process.
 
 ---
 
